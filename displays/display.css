@@ -1,0 +1,106 @@
+.user-info{
+    display: block;
+    margin: 5px;
+}
+
+.inline{
+    display:inline-block;
+    margin: 5px;
+    margin-top: 30px;
+}
+
+p{
+    display:inline-block;
+    width: 200px;
+    vertical-align:middle;
+
+}
+
+#google-shadow-search{
+    height: 35px;
+    width: 500px;
+    border-radius: 20px;
+    border-style:solid;
+    font-size: 15px;
+    padding-left: 15px;
+    border-width: 1px;
+    border:none;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+    margin-bottom: 100px;
+    margin-top: 15px;
+}   
+
+
+.google{
+    display: block;
+    width: auto;
+    margin: auto;
+}
+
+.sign-up-form{
+    font-size: large;
+    height: 40px;
+    margin: 5px;
+    padding-left: 10px;
+    width: 150px;
+    border-radius: 10px;
+    border:1px solid rgba(0, 0, 0, 0.226)
+}
+
+#email{
+    display: block;
+    width: 330px;
+}
+
+#sign-up-btn{
+    color: white;
+    background-color: rgb(13, 143, 218);
+    border: none;
+    margin-top: 10px;
+    padding: 0px;
+    width:344px;
+    height: 55px;
+    font-weight: bold;
+    margin-bottom: 100px;
+    display: block;
+}
+
+.header{
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    display: block;
+    width: auto;
+}
+
+.ride-place-info{
+    border:none;
+    background-color: rgb(243, 243, 240);
+    color: grey;
+    margin:7px 0px 5px 5px;
+    height: 40px;
+    padding-left: 10px;
+    font-size: medium;
+    display: block;
+    width: 350px;
+}
+
+.ride-btn-request{
+    background-color: black;
+    color:white;
+    border: none;
+    width: 150px;
+    height: 50px;
+    margin: 30px 15px 100px 5px;
+    font-size: medium;
+}
+
+.ride-btn-schedule{
+    background-color: rgb(243, 243, 240);
+    color:black;
+    border: none;
+    width: 170px;
+    height: 50px;
+    margin: 30px 15px 100px 5px;
+    font-size: medium;
+}

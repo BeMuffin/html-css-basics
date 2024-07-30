@@ -1,0 +1,55 @@
+.simple-btn{
+    font-size: large;
+    padding: 15px 8px 15px 8px;  /*top right down left*/
+}
+a{
+    font-size: large;
+    padding: 0px 10px 0px 10px
+}
+
+#stretch-btn{
+    font-size: large;
+    background-color: green;
+    color:white;
+    cursor: pointer;
+    border:none;
+    padding: 10px;
+    transition: padding 0.7s;
+}
+
+#stretch-btn:hover{
+    padding: 20px;
+}
+
+#shadow-btn{
+    font-size: large;
+    background-color: green;
+    color:white;
+    cursor: pointer;
+    border:none;
+    padding: 10px;
+    box-shadow: 5px 5px 5px 1px rgba(0, 0, 0, 0.103);
+}
+
+#shadow-btn:active{
+    box-shadow: 5px 5px 5px 1px rgba(0, 0, 0, 0.103);
+    margin-left: 10px;
+    margin-top: 10px;
+
+}
+
+
+.three-btns{
+    font-size: large;
+    background-color: green;
+    color:white;
+    cursor: pointer;
+    border:none;
+    padding: 10px 15px 10px 15px;
+    margin: 5px 10px 5px 10px;
+    transition: padding 0.7s;
+}
+
+.three-btns:hover{
+    padding:10px 30px 10px 30px;
+}

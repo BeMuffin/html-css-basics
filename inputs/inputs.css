@@ -1,0 +1,87 @@
+#search-box{
+    height: 35px;
+    border-radius: 8px;
+    border-width: 1px;
+    border-style:solid;
+    font-size: medium;
+    padding-left: 15px;
+    border-color: rgb(200, 200, 200);
+    margin-bottom: 20px;
+
+}
+
+#google-shadow-search{
+    height: 35px;
+    width: 500px;
+    border-radius: 20px;
+    border-style:solid;
+    font-size: 15px;
+    padding-left: 15px;
+    border-width: 1px;
+    border:none;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+}
+
+.linkedin{
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(100, 94, 94);
+    font-size: small;
+    margin-bottom: 0px;
+    
+}
+
+#linkedin-email-input{
+    height: 25px;
+    width: 315px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgba(105, 98, 98, 0.616);
+    border-radius: 4px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+
+}
+
+
+#linkedin-join-btn{
+    height: 45px;
+    border: none;
+    width: 315px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    background-color: rgb(31, 115, 163);
+    color:white;
+    font-size: large;
+    border-radius: 25px;
+}
+
+#tweet-img{
+    object-position: center;
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    margin: 10px 8px 10px 5px;
+}
+
+#tweet-post-text{
+    border:none;
+    height: 30px;
+    font-size: large;
+    width: 280px;
+
+}
+
+#tweet-btn{
+    border: none;
+    background-color: rgb(82, 167, 224);
+    height: 40px;
+    width: 90px;
+    color: white;
+    font-size: large;
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+.tweet{
+    vertical-align: middle;
+}

@@ -1,0 +1,37 @@
+.flexbox {
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+    margin-bottom: 100px;
+}
+
+.left-flexbox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightcoral;
+    width: 100px;
+    
+}
+
+.right-flexbox {
+    display: flex;
+    background-color: lightblue;
+    width: 200px;
+}
+
+.right-flexbox {
+    display: flex;
+    flex-direction: column;
+}
+
+.inline-content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.row2{
+    background-color: black;
+    color: white;
+}
